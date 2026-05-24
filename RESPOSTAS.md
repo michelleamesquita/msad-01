@@ -4,7 +4,7 @@
 
 Autor: análise automatizada com `scripts/analise_trabalho.py`  
 Dados: `data/Bellcore_data.txt`, `data/Silence_of_the_Lambs_movietrace_data.txt`
-
+teste
 ---
 
 ## Sumário
